@@ -16,7 +16,7 @@ const PROFILE = {
   ],
   greeting: "Hello, I'm",
   bio: "Passionate Junior Frontend Developer at Digylax Pvt Ltd, Coimbatore, building enterprise HRMS web applications. Skilled in the MERN stack with hands-on experience in React, Node.js, MongoDB, and API integration. Always eager to learn, build, and grow.",
-  resumeLink: "#", // Update with actual resume PDF link
+  resumeLink: "Sowndarya_P_Resumae.pdf", // Path to the resume PDF served with the site
 };
 
 const CONTACT_INFO = {
